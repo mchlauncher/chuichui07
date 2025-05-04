@@ -1,6 +1,6 @@
 appId: 'chuichui07'
-productName: 'chuichui07'
-artifactName: '${productName}-setup-${version}.${ext}'
+productName: '마크 대운동회'
+artifactName: 'chuichui07-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2024 Daniel Scalzi)'
 
